@@ -1,0 +1,11 @@
+.listTitle{
+    font-size: x-large;
+    color: magenta;
+    font-weight: bold;
+}
+.listItem{
+    font-size: larger;
+    margin-left: 2rem;
+    color: black;
+    
+}
